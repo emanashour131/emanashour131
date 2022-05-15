@@ -8,4 +8,4 @@
 </div>
 </div>
 
-<h1 align="center">Hi 👋, I'm Iman Ashour</h1>
+I am Iman from Egypt, and I am self-driven and knowledgeable computer science student with 
