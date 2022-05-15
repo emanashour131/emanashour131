@@ -11,7 +11,7 @@
 # Iman Ashour
 #### Software Engineering
 
-I am Iman from Egypt, and I am self-driven and knowledgeable computer science student and Backend Developer.
+I am Iman from Egypt, and I am self-driven and knowledgeable computer science student and Full Stack Developer.
 
 ## Skills and Experience:
 * .NET
