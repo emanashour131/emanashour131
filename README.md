@@ -14,7 +14,7 @@
 I am Iman from Egypt, and I am self-driven and knowledgeable computer science student and .NET Developer.
 
 ## Skills and Experience:
-* .NET 
+* .NET
 * Blazor
 * Angular 
 * Node 
